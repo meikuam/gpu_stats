@@ -1,0 +1,16 @@
+{
+  "host": "localhost",
+  "ssh_port": "port",
+  "ssh_user": "user",
+  "delay": 3,
+  "steps": 100,
+  "units": [
+    "temp",
+    "utilization"
+  ],
+  "alarms": {
+    "temp": [30, 65],
+    "utilization": [10, 90]
+  },
+  "plot_graph": true
+}

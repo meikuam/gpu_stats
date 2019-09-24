@@ -1,0 +1,1 @@
+python3 src/gpu_stats.py
